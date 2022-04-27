@@ -35,7 +35,7 @@ const ProfileForm = (props) => {
     >
       <div className="card border-primary">
         <h6 className="card-header">
-          <IconPersonSquareFill /> Profile Detail
+          <IconPersonSquareFill /> Profile Details
         </h6>
         <img
           src={imagePreview ? imagePreview : "../../images/NO_IMG.png"}
